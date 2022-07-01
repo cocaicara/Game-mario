@@ -26,7 +26,7 @@ const loop = setInterval(() => {
         mario.src = './imagens2/game-over.png'
         mario.style.width = '75px'
         mario.style.marginLeft = '50px'
-        over.innerHTML = 'Game Over!'
+        over.innerHTML = '<h1>Game Over!</h1>'
 
 
 
