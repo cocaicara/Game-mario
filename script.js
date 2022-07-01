@@ -29,8 +29,6 @@ const loop = setInterval(() => {
         over.innerHTML = '<h1>Game Over!</h1>'
 
 
-
-
         clearInterval(loop)
     }
 }, 10)
